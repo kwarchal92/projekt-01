@@ -1,0 +1,25 @@
+/*Base styles*/
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Header styles*/
+
+.main-header{
+    height: 90px;
+    background-color: wheat;    
+}
+
+h1{
+    margin-top: 0px;
+    margin-left: 30px;
+    padding-top: 30px;
+    font-weight: 100;
+
+    text-transform: uppercase;
+    color: orangered;
+}
